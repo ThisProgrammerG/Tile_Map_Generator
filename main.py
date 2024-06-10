@@ -1,7 +1,3 @@
-"""
-Tutorial from:
-"""
-
 import pygame
 
 from assets.paths import IMAGES_DIR
